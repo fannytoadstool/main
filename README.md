@@ -1,2 +1,2 @@
 # main
-Repo for test purposes
+Repository for test purposes
